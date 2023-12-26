@@ -1,5 +1,8 @@
 # poke-bowl
 
+## Посмотреть можно здесь 
+https://tanny-may.github.io/poke-bowl/
+
 ## О проекте
 Учебный React-проект страницы для онлайн заказа еды в рамках курса "Современный React" (YouRa Allakhverdov).
 
