@@ -1,4 +1,4 @@
-# poke-bowl-site
+# poke-bowl
 
 ## О проекте
 Учебный React-проект страницы для онлайн заказа еды в рамках курса "Современный React" (YouRa Allakhverdov).
