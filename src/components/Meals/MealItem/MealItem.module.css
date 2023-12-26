@@ -1,0 +1,23 @@
+.meal {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.meal h3 {
+  font-family: 'Exo', sans-serif;
+  margin: 0 0 0.25rem 0;
+}
+
+.description {
+  font-family: 'Exo';
+}
+
+.price {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #5F0439;
+  font-size: 1.3rem;
+}
